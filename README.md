@@ -1,4 +1,4 @@
 # PasswordGenerator
 
 ## Live Preview
-[PasswordGenerator]()
+[PasswordGenerator](https://utkarsh3128.github.io/PasswordGenerator/)
